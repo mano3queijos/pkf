@@ -1,0 +1,117 @@
+body {
+    background-color: rgb(8, 3, 3);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.principal {
+
+
+    padding-top: -10;
+    margin-top: -600px;
+    height: 1300px;
+    position: static;
+}
+
+.menu {
+    color: blanchedalmond;
+    font-size: 30px;
+    margin-top: -150px;
+
+}
+
+a {
+    color: rgb(75, 72, 165);
+    text-decoration: none;
+    font-weight: bold;
+
+
+
+
+}
+
+
+.titulo {
+    color: rgb(75, 72, 165);
+    margin-top: 50px;
+}
+
+.titulo-disco1 {
+    display: inline;
+    background: linear-gradient(to right, red, blue, yellow, green, purple, orange);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.titulo-disco2 {
+    color: bisque;
+    margin-top: 50px;
+}
+
+.titulo-disco3 {
+    color: cadetblue;
+    margin-top: 50px;
+}
+
+.texto1 {
+    color: rgb(75, 72, 165);
+    padding-top: 10PX;
+    text-align: justify;
+    font-size: 25px;
+    size: 50%;
+    padding: 20px;
+
+
+}
+
+.texto-colorido {
+   
+    background: linear-gradient(to right, red, blue, yellow, green, purple, orange);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    padding-top: 10PX;
+    text-align: justify;
+    font-size: 25px;
+    size: 50%;
+    padding: 20px;
+   
+}
+
+.texto2 {
+    color: bisque;
+    padding-top: 10PX;
+    text-align: justify;
+    font-size: 25px;
+    size: 50%;
+    padding: 20px;
+}
+
+.texto3 {
+    color: cadetblue;
+    padding-top: 10PX;
+    text-align: justify;
+    font-size: 25px;
+    size: 50%;
+    padding: 20px;
+
+}
+
+.imagem-discos {
+    height: 300px;
+    float: left;
+}
+
+.discos {
+    padding-top: 30px;
+}
+
+.rodape {
+    color: rgb(75, 72, 165);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+
+
+
+}
